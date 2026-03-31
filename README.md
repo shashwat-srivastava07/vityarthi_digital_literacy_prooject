@@ -1,8 +1,8 @@
 # vityarthi_digital_literacy_project
-\# digital-literacy-case-study
+## digital-literacy-case-study
 Level Up Your Digital Life: A Student’s Guide  Hey Batchmates! As your Digital Ambassador, I’ve put together this portfolio to help us all master the web. From fixing up your professional profiles to staying safe online, consider this your roadmap to a better digital presence. 
 
-Hey Batchmates, I’m Samruddhi!
+Hey Batchmates, I’m Shashwat!
 Student Digital Ambassador | VIT Bhopal (2025-2029)
 
 Let’s be real—starting an engineering degree is a massive jump. We go from scrolling Instagram to suddenly needing a GitHub, a LinkedIn, and a deep understanding of C++ and DSA. As your Digital Ambassador, I’ve put this portfolio together to show you that "tech-savvy" isn't just a buzzword; it’s about how we build our future.
